@@ -50,3 +50,9 @@ Program will display its strength
 Exit Program
 
 Choose option 3
+
+Dependencies
+
+Built-in Python modules only (random, string)
+
+No external libraries required
