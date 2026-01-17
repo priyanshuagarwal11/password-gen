@@ -11,3 +11,21 @@ Features
 ✅ User can specify password length
 
 ✅ Interactive menu for easy use
+
+Installation
+
+Make sure you have Python 3.x installed on your computer.
+
+Download or clone this repository.
+
+git clone <repository-url>
+
+
+Navigate to the project folder.
+
+cd password-generator
+
+
+Run the program:
+
+python password_generator.py
