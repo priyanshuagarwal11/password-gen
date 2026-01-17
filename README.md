@@ -29,3 +29,24 @@ cd password-generator
 Run the program:
 
 python password_generator.py
+How to Use
+
+Generate a Password
+
+Choose option 1
+
+Enter desired password length
+
+Get a randomly generated strong password along with its strength
+
+Check Password Strength
+
+Choose option 2
+
+Enter your password
+
+Program will display its strength
+
+Exit Program
+
+Choose option 3
